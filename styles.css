@@ -1,0 +1,18 @@
+div.header{
+    display: flex;
+}
+div.container-fluid{
+padding: 0px;
+display: flexbox;
+}
+div.header-icons{
+    font-size: 150%;
+}
+div.format-icons{
+    display: flexbox;
+    text-align: center;
+}
+div.img{
+    display: flexbox;
+    text-align: center;
+}
